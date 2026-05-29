@@ -1,0 +1,15 @@
+[theme]
+# Vermelho suave para os botões e destaques (Banco de Sangue)
+primaryColor = "#d32f2f"
+
+# Fundo principal branco clínico
+backgroundColor = "#ffffff"
+
+# Fundo dos campos e caixas em um bege/cinza bem suave e limpo
+secondaryBackgroundColor = "#f7f5f0"
+
+# Texto em cinza escuro para excelente contraste e leitura
+textColor = "#212121"
+
+# Define a fonte padrão do sistema (pode ser sans serif para ficar moderno)
+font = "sans serif"
